@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th,
+td {
+    text-align: left;
+    padding: 10px;
+    border: 1px solid #ddd;
+}
+
+th {
+    background-color: #99abb4;
+}
+
+tr:hover {
+    background-color: #2395be;
+}
+
+img {
+    width: 80px;
+    height: auto;
+}
+
+.total-price {
+    font-weight: bold;
+}
+
+.form-control submit{
+    background-color:blue;
+}
